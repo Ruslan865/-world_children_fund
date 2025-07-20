@@ -36,3 +36,7 @@ This is a fully open-source project. Everyone is welcome to contribute. Develope
 This project is licensed under the MIT License.
 
 > "Helping a child is helping humanity."
+## 🤝 Join Our Volunteer Community
+
+We welcome developers, designers, educators, and all who care about children
+https://discord.gg/vn8hC6Dx
