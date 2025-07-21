@@ -39,4 +39,4 @@ This project is licensed under the MIT License.
 ## 🤝 Join Our Volunteer Community
 
 We welcome developers, designers, educators, and all who care about children
-https://discord.gg/vn8hC6Dx
+https://discord.gg/vn8hC6Dx https://discord.gg/7NdGXKRU
